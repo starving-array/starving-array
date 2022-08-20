@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Spring Boot, Java
+- 🔭 I’m currently working on Spring Boot, Java 
 - 🌱 I’m currently learning DBMS
 - 👯 I’m looking to collaborate on Open Sourse Project
 - 🤔 I’m looking for help with DSA- DP
