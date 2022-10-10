@@ -1,14 +1,24 @@
 ### Hi there 👋
+## I'm, *Archie*
 
+<!-- - [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+ -->
+<span>
+<!-- <img style="width:500px" src="two.jpg"/> -->
+<img style="width:500px" src="one.png"/>
+<!-- <img style="width:500px" src="three.jpg"/> -->
+</span>
+
+#
 - 🔭 Currently working on Spring Boot, Java 
 - 🌱 Currently learning SpringBoot   
 - 👯 Ready to contribute on Open Sourse Project
-<!-- - 🤔 I’m looking for help with DSA- DP -->
 - 💬 Ask me about JS, Java, HTML, CSS, MySQL.
-
 - 😄 Pronouns: Aar - chii- shh- maa - nn-- Das
 - ⚡ Fun fact: So many commits, still peaple think we had commitment issue 😛
-
+<!-- - 🤔 I’m looking for help with DSA- DP -->
 
 
 ## 🌐 Socials:
