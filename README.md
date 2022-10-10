@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Spring Boot, Java 
-- 🌱 I’m currently learning DBMS 
-- 👯 I’m looking to contribute on Open Sourse Project
-- 🤔 I’m looking for help with DSA- DP
-- 💬 Ask me about JS, Java, HTML, CSS, Problem Solving, MySQL
+- 🔭 Currently working on Spring Boot, Java 
+- 🌱 Currently learning SpringBoot   
+- 👯 Ready to contribute on Open Sourse Project
+<!-- - 🤔 I’m looking for help with DSA- DP -->
+- 💬 Ask me about JS, Java, HTML, CSS, MySQL.
 
 - 😄 Pronouns: Aar - chii- shh- maa - nn-- Das
 - ⚡ Fun fact: So many commits, still peaple think we had commitment issue 😛
