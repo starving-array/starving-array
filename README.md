@@ -7,7 +7,7 @@
  -->
 <span>
 <!-- <img style="width:500px" src="two.jpg"/> -->
-<img style="width:500px" src="one.png"/>
+<img  id="image" style="width:500px" src="one.png"/>
 <!-- <img style="width:500px" src="three.jpg"/> -->
 </span>
 
