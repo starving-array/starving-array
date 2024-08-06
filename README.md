@@ -12,8 +12,8 @@
 </span>
 
 #
-- 🔭 Currently working on Spring Boot, Java 
-- 🌱 Currently learning Microservices   
+- 🔭 Currently working on Spring Boot, Java, Microservices, Maven, Gradle, SQL and NoSQL, Docker, Redis
+- 🌱 Currently learning AI/ML   
 - 👯 Ready to contribute on Open Sourse Project
 - 💬 Ask me about JS, Java, HTML, CSS, MySQL.
 - 😄 Pronouns: Aar - chii- shh- maa - nn-- Das
