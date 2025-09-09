@@ -1,33 +1,104 @@
 ### Hi there 👋
-## I'm, *Archie*
+## I'm *Archie*
 
-<!-- - [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
- -->
 <span>
-<!-- <img style="width:500px" src="two.jpg"/> -->
-<img  id="image" style="width:500px" src="one.png"/>
-<!-- <img style="width:500px" src="three.jpg"/> -->
+  <img id="image" style="width:500px" src="one.png"/>
 </span>
 
-#
-- 🔭 Currently working on Spring Boot, Java, Microservices, Maven, Gradle, SQL and NoSQL, Docker, Redis
-- 🌱 Currently learning AI/ML   
-- 👯 Ready to contribute on Open Sourse Project
-- 💬 Ask me about JS, Java, HTML, CSS, MySQL.
-- 😄 Pronouns: Aar - chii- shh- maa - nn-- Das
-- ⚡ Fun fact: So many commits, still peaple think we had commitment issue 😛
-<!-- - 🤔 I’m looking for help with DSA- DP -->
+---
 
+# Backend-Focused Full Stack Developer
+*(Java, .NET, C#, Spring Boot, Cloud-Native Systems)*  
+**Backend Developer at Nethues Technologies**  
+🌍 Based in New Delhi, India
+
+---
+
+## 🚀 What I Do
+
+- Build and optimize **scalable APIs & microservices** used by **10M+ users**  
+- Designed and implemented **80+ REST APIs** (Java, Spring Boot, .NET, C#), **cutting latency by 40%** and **reducing refund errors by 60%+**  
+- Migrated monolithic systems to modular microservices, **improving DB performance by 35%** and automating **CI/CD pipelines**  
+- Developed **Reverse Vending Machine API** and **Auto-Label Generator**, streamlining refund processing  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:** Java (8/11/17) · .NET · C# · Spring Boot · Microservices  
+**Databases & Messaging:** SQL/NoSQL (MySQL, PostgreSQL, MongoDB, Redis) · Kafka · RabbitMQ  
+**DevOps & Cloud:** Docker · Kubernetes · AWS, GCP (Vertex AI) · Jenkins · SonarQube · CI/CD  
+**APIs:** REST APIs
+
+---
+
+## 👨🏻‍💻 Projects & Open Source
+
+Pinned Projects: **E-Commerce REST API**, **Blog API**, **Bus Reservation System**, **Virtual McDonald**, **To-Do App**  
+
+Passionate about **mentoring, open source**, and **innovative solutions**.
+
+---
+
+## ⚡ Interests
+
+Prompt Engineering · Generative AI · Scalable Architecture · AI/ML Learning
+
+---
 
 ## 🌐 Socials:
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/archishmandas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archeese/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gowork.archis) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/wakeuparchis)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archeese/)
 # 💻 Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23EF5350.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%232C3E50.svg?style=for-the-badge&logo=java&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud & DevOps
+![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%23438ACB.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Messaging & Integration
+![Kafka](https://img.shields.io/badge/Kafka-%23F8991C.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Testing & Quality
+![JUnit](https://img.shields.io/badge/JUnit-%23A62825.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-%2300B7F1.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+### Architecture & Practices
+![Microservices](https://img.shields.io/badge/Microservices-%23007ACC.svg?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-%233399FF.svg?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-%23FFAA00.svg?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-%23696969.svg?style=for-the-badge)
+![CI/CD Pipelines](https://img.shields.io/badge/CI/CD-%234285F4.svg?style=for-the-badge)
+
+
 
 # 📊 GitHub Stats:
 
