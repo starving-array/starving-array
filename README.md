@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm *Archie*
+## I'm *Archishman Das*
 
 <span>
   <img id="image" style="width:500px" src="one.png"/>
@@ -7,48 +7,64 @@
 
 ---
 
-# Backend-Focused Full Stack Developer
-*(Java, .NET, C#, Spring Boot, Cloud-Native Systems)*  
-**Backend Developer at Nethues Technologies**  
+# Senior Backend Engineer
+*(Distributed Systems, Scalable APIs, Cloud-Native Platforms)*  
+**Building high-scale backend systems with Java, Spring Boot, Redis, Kafka, Kubernetes, and CI/CD**  
 🌍 Based in New Delhi, India
 
 ---
 
 ## 🚀 What I Do
 
-- Build and optimize **scalable APIs & microservices** used by **10M+ users**  
-- Designed and implemented **80+ REST APIs** (Java, Spring Boot, .NET, C#), **cutting latency by 40%** and **reducing refund errors by 60%+**  
-- Migrated monolithic systems to modular microservices, **improving DB performance by 35%** and automating **CI/CD pipelines**  
-- Developed **Reverse Vending Machine API** and **Auto-Label Generator**, streamlining refund processing  
+- Architect and optimize **scalable backend systems** serving **10M+ users**
+- Build **production-grade APIs and microservices** with strong focus on performance, reliability, and clean service boundaries
+- Design **high-concurrency workflows** using **Redis locking, Kafka-driven async flows, and resilient backend patterns**
+- Improve system efficiency through **query tuning, caching, observability, and CI/CD automation**
+- Solve real production problems with measurable impact, not just features
+
+---
+
+## 📌 Recent Impact
+
+- Built a **high-concurrency booking engine** handling **1000+ concurrent requests** with **100% slot allocation accuracy**
+- Engineered a **Redis-backed locking layer** to eliminate double-booking in critical transactional flows
+- Reduced **API latency by 40%** and lowered **database read load by ~70%**
+- Improved **system reliability by 25%** with fault-tolerant recovery mechanisms
+- Scaled backend infrastructure for **10M+ users**
+- Delivered **80+ production-grade REST APIs**
+- Modernized monolithic architecture into **microservices**, improving DB performance by **35%**
+- Strengthened access control using **Keycloak RBAC** across complex user flows
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:** Java (8/11/17) · .NET · C# · Spring Boot · Microservices  
-**Databases & Messaging:** SQL/NoSQL (MySQL, PostgreSQL, MongoDB, Redis) · Kafka · RabbitMQ  
-**DevOps & Cloud:** Docker · Kubernetes · AWS, GCP (Vertex AI) · Jenkins · SonarQube · CI/CD  
-**APIs:** REST APIs
+**Languages & Backend:** Java (8/11/17), SQL, JavaScript, Spring Boot, Hibernate, JPA  
+**Architecture:** Microservices, Distributed Systems, REST APIs, System Design  
+**Infra & Messaging:** Redis, Kafka, Docker, Kubernetes, AWS, GCP  
+**DevOps & Quality:** Jenkins, SonarQube, CI/CD, JUnit, Mockito, Prometheus, Grafana
 
 ---
 
-## 👨🏻‍💻 Projects & Open Source
+## 👨🏻‍💻 Projects
 
-Pinned Projects: **E-Commerce REST API**, **Blog API**, **Bus Reservation System**, **Virtual McDonald**, **To-Do App**  
+Pinned Projects: **E-Commerce REST API**, **Blog API**, **Bus Reservation System**, **Virtual McDonald**, **To-Do App**
 
-Passionate about **mentoring, open source**, and **innovative solutions**.
+I’m especially interested in building systems that are **fast, observable, resilient, and easy to evolve**.
 
 ---
 
 ## ⚡ Interests
 
-Prompt Engineering · Generative AI · Scalable Architecture · AI/ML Learning
+Distributed Systems · System Design · Performance Engineering · Cloud-Native Architecture · Generative AI
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archeese/)
+
+<!--
 # 💻 Tech Stack:
 
 ## 🛠️ Tech Stack
@@ -97,7 +113,7 @@ Prompt Engineering · Generative AI · Scalable Architecture · AI/ML Learning
 ![System Design](https://img.shields.io/badge/System_Design-%23FFAA00.svg?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-%23696969.svg?style=for-the-badge)
 ![CI/CD Pipelines](https://img.shields.io/badge/CI/CD-%234285F4.svg?style=for-the-badge)
-
+-->
 
 
 # 📊 GitHub Stats:
@@ -110,12 +126,12 @@ Prompt Engineering · Generative AI · Scalable Architecture · AI/ML Learning
 
 ![](https://github-profile-trophy.vercel.app/?username=starving-array&theme=flat&no-frame=false&no-bg=false&margin-w=4) -->
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-
+<!--
 [![](https://visitcount.itsvg.in/api?id=starving-array&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me...
@@ -123,4 +139,3 @@ Prompt Engineering · Generative AI · Scalable Architecture · AI/ML Learning
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/archeese) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/archis007)
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
